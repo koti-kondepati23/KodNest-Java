@@ -1,4 +1,4 @@
-public class Practice2 {
+public class Placement {
     public static void main(String[] args) {
         int marks = 72;
         int attendance = 80;

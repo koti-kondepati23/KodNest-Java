@@ -1,4 +1,4 @@
-public class Practice4 {
+public class SimpleInterest {
     public static void main(String[] args) {
         // write your code here
         double Principal=10000.0;

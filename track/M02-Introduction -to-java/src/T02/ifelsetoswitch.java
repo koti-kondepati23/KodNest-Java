@@ -1,4 +1,4 @@
-public class Practice3 {
+public class ifelsetoswitch {
     public static void main(String[] args) {
         int day = 6;
 

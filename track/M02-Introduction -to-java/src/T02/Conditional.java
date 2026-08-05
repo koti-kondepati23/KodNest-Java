@@ -1,4 +1,4 @@
-public class Practice1 {
+public class Conditional {
     public static void main(String[] args) {
         int number = -7;
         int firstScore = 18;

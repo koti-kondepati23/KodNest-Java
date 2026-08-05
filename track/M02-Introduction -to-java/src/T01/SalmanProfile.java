@@ -1,4 +1,4 @@
-public class Practice3 {
+public class SalmanProfile {
     public static void main(String[] args) {
         String learnerName = "Salman";
         int dailyPracticeHours = 8;
