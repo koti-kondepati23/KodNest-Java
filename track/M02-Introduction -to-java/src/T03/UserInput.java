@@ -31,6 +31,7 @@ public class UserInput {
         System.out.println("enter the value of boolean");
         boolean g = sc.nextBoolean();
         System.out.println("the value of boolean: " + g);
+        sc.close();
 
     }
 }

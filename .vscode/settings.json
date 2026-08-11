@@ -1,0 +1,9 @@
+{
+    "java.server.launchMode": "Standard",
+    "java.project.sourcePaths": [
+        "track/M02-Introduction -to-java/src/T01",
+        "track/M02-Introduction -to-java/src/T02",
+        "track/M02-Introduction -to-java/src/T03",
+        "track/M02-Introduction -to-java/src/T04"
+    ]
+}
