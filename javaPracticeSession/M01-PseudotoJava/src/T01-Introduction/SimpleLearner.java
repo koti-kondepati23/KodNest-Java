@@ -1,4 +1,4 @@
-public class Practice1 {
+public class SimpleLearner {
     public static void main(String[] args) {
         // Write your code here.
         String learnerName = "Ananya";
