@@ -40,5 +40,6 @@ public class HireReady {
         // Call both showScore() methods
         obj.showScore(first);
         obj.showScore(first,second);
+        scanner.close();
     }
 }

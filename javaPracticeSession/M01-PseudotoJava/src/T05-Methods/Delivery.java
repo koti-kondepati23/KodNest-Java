@@ -28,5 +28,7 @@ public class Delivery {
         // Print both returned charges
         System.out.println("Standard Charge: " + dis);
         System.out.println("Express Charge: " + ex);
+
+        scanner.close();
     }
 }

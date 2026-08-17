@@ -28,5 +28,6 @@ public class StudentResult {
 
         System.out.println("Two-Mark Total: " + method1);
         System.out.println("Three-Mark Total: " + method2);
+        scanner.close();
     }
 }

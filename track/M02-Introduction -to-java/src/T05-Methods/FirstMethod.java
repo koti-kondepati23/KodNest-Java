@@ -1,4 +1,4 @@
-class Robot {
+class Robots {
     void speak() {
         // Print the message
         System.out.println("Beep beep! Java is my superpower!");
@@ -8,7 +8,7 @@ class Robot {
 public class FirstMethod {
     public static void main(String[] args) {
         // Create a Robot object
-        Robot r1 = new Robot();
+        Robots r1 = new Robots();
         // Call speak()
         r1.speak();
     }

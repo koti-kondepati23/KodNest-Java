@@ -35,5 +35,6 @@ public class TwoObjects {
         } else {
             System.out.println("Both students have the same Java score.");
         }
+        scanner.close();
     }
 }

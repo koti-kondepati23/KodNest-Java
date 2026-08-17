@@ -1,9 +1,11 @@
 {
     "java.server.launchMode": "Standard",
     "java.project.sourcePaths": [
+        "track/M02-Introduction -to-java/src/T06-Constructor",
         "track/M02-Introduction -to-java/src/T05-Methods",
         "track/M02-Introduction -to-java/src/T04-Classes",
-        "javaPracticeSession/M01-PseudotoJava/src/T05-Methods"
+        "javaPracticeSession/M01-PseudotoJava/src/T05-Methods",
+        "javaPracticeSession/M01-PseudotoJava/src/T07-Arrays"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
