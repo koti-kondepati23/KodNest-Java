@@ -1,6 +1,8 @@
+
 import java.util.Scanner;
 
 class MobilePlan {
+
     String planName;
     int price;
 
@@ -22,16 +24,18 @@ class MobilePlan {
 }
 
 public class MobilePlanMain {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         // Read the selected plan name and price
         MobilePlan m1 = new MobilePlan();
         // Create the default plan
-        MobilePlan m2 = new MobilePlan(scanner.nextLine() , scanner.nextInt());
+        MobilePlan m2 = new MobilePlan(scanner.nextLine(), scanner.nextInt());
         // Create the selected plan
         // Display both plans
         m1.display();
         m2.display();
+        scanner.close();
     }
 }

@@ -1,6 +1,8 @@
+
 import java.util.Scanner;
 
 class Studentcls {
+
     String name;
 
     Studentcls(String name) {
@@ -14,6 +16,7 @@ class Studentcls {
 }
 
 public class StudentNAME {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -23,5 +26,6 @@ public class StudentNAME {
         Studentcls s1 = new Studentcls(name);
         // Call display()
         s1.display();
+        scanner.close();
     }
 }

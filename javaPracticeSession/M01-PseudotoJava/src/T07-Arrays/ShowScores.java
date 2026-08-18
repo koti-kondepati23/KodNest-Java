@@ -18,5 +18,6 @@ public class ShowScores {
         for (int i = size - 1; i >= 0; i--) {
             System.out.print(scores[i] + " ");
         }
+        sc.close();
     }
 }
