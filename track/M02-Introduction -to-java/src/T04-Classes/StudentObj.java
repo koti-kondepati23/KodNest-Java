@@ -1,7 +1,8 @@
+
 import java.util.Scanner;
 
 class Students {
-    // Declare id, name, course and javaScore
+
     int id;
     String name;
     String course;
@@ -9,19 +10,16 @@ class Students {
 }
 
 public class StudentObj {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
-        // Create one Student object2
         Students student = new Students();
 
-        // Read and store all values in the object
         student.id = scanner.nextInt();
         student.name = scanner.next();
         student.course = scanner.next();
         student.javaScore = scanner.nextDouble();
 
-        // Display the values stored in the object
         System.out.println("Student Profile");
         System.out.println("ID: " + student.id);
         System.out.println("Name: " + student.name);

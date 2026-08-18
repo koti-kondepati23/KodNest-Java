@@ -1,6 +1,8 @@
+
 import java.util.Scanner;
 
 class StudentTwo {
+
     // Declare id, name and javaScore
     int id;
     String name;
@@ -8,6 +10,7 @@ class StudentTwo {
 }
 
 public class TwoObjects {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

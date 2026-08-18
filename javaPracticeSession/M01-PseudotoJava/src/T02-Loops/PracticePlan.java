@@ -26,6 +26,6 @@ public class PracticePlan {
         if (completedSessions >= targetSessions) {
             System.out.println("Target Achieved");
         }
-        // Build the weekly practice report
+
     }
 }
