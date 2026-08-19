@@ -1,6 +1,6 @@
 public class HomeWork1 {
     public static void main(String[] args) {
-        // write your code here
+   
         int CompletedTopics=17;
         int TotalTopics=20;
         int DailyLearningHours=3;

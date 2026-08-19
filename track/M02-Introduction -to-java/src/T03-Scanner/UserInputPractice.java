@@ -12,7 +12,6 @@ public class UserInputPractice {
         System.out.println("Learner: " + name);
         System.out.println("Problems solved: " + solprblms);
         System.out.println("Assessment: " + percentage);
-        // Read and display the profile
 
         scanner.close();
     }

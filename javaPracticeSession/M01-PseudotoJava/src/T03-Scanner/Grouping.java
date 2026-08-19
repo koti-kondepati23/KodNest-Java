@@ -13,10 +13,6 @@ public class Grouping {
         else {
             System.out.println("NotEligible");
         }
-
-        // Build the correctly grouped eligibility condition.
-        // Print Eligible or Not Eligible.
-
         scanner.close();
     }
 }

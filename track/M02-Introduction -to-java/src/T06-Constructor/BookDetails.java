@@ -20,10 +20,8 @@ public class BookDetails {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Read the book title and author
-        // Create one Book object
+
         Book b1 = new Book(scanner.nextLine() , scanner.nextLine());
-        // Call display()
         b1.display();
         scanner.close();
     }

@@ -2,22 +2,21 @@ import java.util.Scanner;
 
 class MethodDemo {
     void sayHello() {
-        // Print the fixed message
+
         System.out.println("Hello from a method!");
     }
 
     void greet(String name) {
-        // Print the greeting
+
         System.out.println("Hello, " + name + "!");
     }
 
     int getLuckyNumber() {
-        // Return 7
+
         return 7;
     }
 
     int add(int first, int second) {
-        // Return the sum
         return first+second;
     }
 }
@@ -29,9 +28,6 @@ public class FourMethods {
         String name = scanner.nextLine();
         int first =scanner.nextInt();
         int second = scanner.nextInt();
-        // Read the name and two numbers
-        // Create one object
-        // Call all four methods
         d1.sayHello();
         d1.greet(name);
         int res = d1.getLuckyNumber();

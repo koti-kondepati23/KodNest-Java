@@ -5,7 +5,6 @@ public class Interview {
         int maxAttempts = 3;
         String roundName;
 
-        // Select the round and attempt status, then print them
         switch(roundCode){
             case 1 : roundName = "Aptitude Round ";
             break;

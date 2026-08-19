@@ -1,7 +1,7 @@
 
 public class Pseudotojava {
     public static void main(String[] args) {
-        // Convert the given pseudocode into Java code
+  
         int javaHoursPerDay = 2;
         int aptitudeHoursPerDay = 1;
         int numberofDays = 5;
