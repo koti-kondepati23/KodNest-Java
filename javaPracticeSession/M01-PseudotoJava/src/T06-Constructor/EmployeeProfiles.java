@@ -31,6 +31,7 @@ public class EmployeeProfiles {
         String department = sc.nextLine();
         Employeespr e1 = new Employeespr(id, name, department);
         e1.displayProfile();
+        sc.close();
 
     }
 }

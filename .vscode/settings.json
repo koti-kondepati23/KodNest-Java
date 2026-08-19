@@ -7,7 +7,9 @@
         "track/M02-Introduction -to-java/src/T05-Methods",
         "track/M02-Introduction -to-java/src/T04-Classes",
         "javaPracticeSession/M01-PseudotoJava/src/T07-Arrays",
+        "javaPracticeSession/M01-PseudotoJava/src/T06-Constructor",
         "javaPracticeSession/M01-PseudotoJava/src/T05-Methods",
+        "javaPracticeSession/M01-PseudotoJava/src/T04-Classes",
         "track/M02-Introduction -to-java/src/T08-Array-Sloving-2dArray"
     ],
     "java.debug.settings.onBuildFailureProceed": true

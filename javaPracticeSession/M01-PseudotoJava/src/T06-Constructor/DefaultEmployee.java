@@ -24,6 +24,7 @@ public class DefaultEmployee {
         Employeesrole e1 = new Employeesrole();
         e1.name = name;
         e1.displayProfile();
+        sc.close();
 
     }
 }

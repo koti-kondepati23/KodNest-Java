@@ -25,5 +25,6 @@ public class PracticePlan {
             }
         }
         System.out.println("Completed days: " + sum);
+        sc.close();
     }
 }
