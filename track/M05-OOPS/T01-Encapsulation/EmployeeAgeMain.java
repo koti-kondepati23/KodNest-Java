@@ -12,5 +12,6 @@ public class EmployeeAgeMain {
         } else {
             System.out.println("Invalid age");
         }
+        scanner.close();
     }
 }
